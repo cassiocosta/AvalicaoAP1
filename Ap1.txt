@@ -4,3 +4,12 @@ git clone e a url do repositório https://github.com/cassiocosta/AvalicaoAP1.git
 
 git clone https://github.com/cassiocosta/AvalicaoAP1.git
 
+git status - verifica o estado da minha pasta se tem alguma coisa pendente para comitar.
+
+git add . - adiciona todos os arquivos na area de commit, para que possam serem comitados. O ponto é um coringa que diz ao git que vai adicionar todos os arquivos envolvidos.
+
+git commit -m "mensagem do commit" - prepara os arquivos para serem enviados. Cria um histórico, identificação do que estará sendo enviado nesta "unidade"
+
+git push - envia os commits para o repositório remoto
+
+
