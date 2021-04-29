@@ -1,0 +1,6 @@
+comandos da primeira etapa:
+
+git clone e a url do repositório https://github.com/cassiocosta/AvalicaoAP1.git
+
+git clone https://github.com/cassiocosta/AvalicaoAP1.git
+
