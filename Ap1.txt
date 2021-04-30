@@ -16,3 +16,6 @@ git commit -m "mensagem do commit" - prepara os arquivos para serem enviados. Cr
 git push - envia os commits para o repositório remoto
 
 
+estou testando o git pull 
+
+
